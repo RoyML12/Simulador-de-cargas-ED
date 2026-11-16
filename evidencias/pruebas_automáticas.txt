@@ -1,0 +1,27 @@
+test_carga_negativa (test_campo.PruebasCampo.test_carga_negativa) ... ok
+test_carga_positiva (test_campo.PruebasCampo.test_carga_positiva) ... ok
+test_dipolo (test_campo.PruebasCampo.test_dipolo) ... ok
+test_dos_positivas (test_campo.PruebasCampo.test_dos_positivas) ... ok
+test_eliminar_y_limpiar (test_campo.PruebasCampo.test_eliminar_y_limpiar) ... ok
+test_limite_cinco (test_campo.PruebasCampo.test_limite_cinco) ... ok
+test_modificar (test_campo.PruebasCampo.test_modificar) ... ok
+test_sin_cargas (test_campo.PruebasCampo.test_sin_cargas) ... ok
+test_singularidad (test_campo.PruebasCampo.test_singularidad) ... ok
+test_valores_invalidos (test_campo.PruebasCampo.test_valores_invalidos) ... ok
+test_exportar (test_mediciones.PruebaRendimiento.test_exportar) ... ok
+test_campo_manual_carga_aislada (test_rubrica.PruebasRubrica.test_campo_manual_carga_aislada) ... ok
+test_campo_manual_dipolo (test_rubrica.PruebasRubrica.test_campo_manual_dipolo) ... ok
+test_paso_menor_se_aproxima_referencia (test_rubrica.PruebasRubrica.test_paso_menor_se_aproxima_referencia) ... ok
+test_positivas_simetria (test_rubrica.PruebasRubrica.test_positivas_simetria) ... ok
+test_campo_cero_detiene (test_trayectorias.PruebasEuler.test_campo_cero_detiene) ... ok
+test_cinco_cargas (test_trayectorias.PruebasEuler.test_cinco_cargas) ... ok
+test_dipolo (test_trayectorias.PruebasEuler.test_dipolo) ... ok
+test_negativa_entro_en_sentido_inverso (test_trayectorias.PruebasEuler.test_negativa_entro_en_sentido_inverso) ... ok
+test_parametros_invalidos (test_trayectorias.PruebasEuler.test_parametros_invalidos) ... ok
+test_positiva_sale (test_trayectorias.PruebasEuler.test_positiva_sale) ... ok
+test_primera_iteracion (test_trayectorias.PruebasEuler.test_primera_iteracion) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.553s
+
+OK
